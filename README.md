@@ -86,7 +86,7 @@ Research exploring multi-label ECG classification using deep learning, with mode
 
 `Python` `PyTorch` `CNN` `Pandas` `Kaggle`
 
-[Repository](ADD_ECG_REPOSITORY_URL)
+[Repository](https://github.com/Idrissafakiyahya/Multi-Label-Classification-of-12-Lead-ECG-Signals-Using-Deep-Learning-)
 
 ---
 
