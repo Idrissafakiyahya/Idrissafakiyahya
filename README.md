@@ -8,8 +8,8 @@
 Building intelligent, data-driven solutions to real-world problems.
 
 <p>
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="https://idrissfakiyahya.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/idrissa-yahya-6660b02a7/">LinkedIn</a> •
   <a href="mailto:idrissafakiyahya2003@gmail.com">Email</a>
 </p>
 
@@ -26,7 +26,7 @@ I'm **Idrissa Faki Yahya**, a Data Scientist from Zanzibar, Tanzania, passionate
 I enjoy transforming complex data into meaningful insights and developing practical intelligent solutions. My interests include predictive modelling, deep learning, statistical analysis, and AI-powered applications.
 
 - 📍 Zanzibar, Tanzania
-- 🎓 BSc in Data Science — EASTC
+- 🎓 BSc in Data Science — Eastern Africa Statistical Training Centre (EASTC)
 - 🔬 Interested in AI, Machine Learning & Applied Research
 - 🚀 Focused on building impactful technology solutions
 
@@ -91,7 +91,11 @@ Research exploring multi-label ECG classification using deep learning, with mode
 ---
 
 ## 💼 Experience
+**Zanzibar Research Centre for Socio-Economic and Policy Analysis (ZRCP)**  
+*Data Scientist and Research Assistance | October 2026 – Present*
 
+- collect, clean, validate, analyse and validate the research data of ZRCP.
+- support and conduct rsearches
 **BetaTQ (Soka Metrics)**  
 *Volunteer Data Scout | May 2026 – June 2026*
 
@@ -111,6 +115,7 @@ Research exploring multi-label ECG classification using deep learning, with mode
 
 **Eastern Africa Statistical Training Centre (EASTC)**  
 BSc in Data Science | 2023 – 2026
+First Class
 
 **Zanzibar Commercial Secondary School**  
 Advanced Secondary Education – Physics, Mathematics & Computer Studies | 2021 – 2023  
@@ -149,8 +154,8 @@ Ordinary Secondary Education – Information & Computer Studies | 2017 – 2020
 I'm open to research collaborations, AI/ML projects, Data Science opportunities, and technology-driven initiatives.
 
 - 📧 Email: [idrissafakiyahya2003@gmail.com](mailto:idrissafakiyahya2003@gmail.com)
-- 🌐 Portfolio: [Visit Website](YOUR_PORTFOLIO_URL)
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+- 🌐 Portfolio: [Visit Website](https://idrissfakiyahya.vercel.app/)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/idrissa-yahya-6660b02a7/)
 - 🐙 GitHub: [@Idrissafakiyahya](https://github.com/Idrissafakiyahya)
 
 <div align="center">
